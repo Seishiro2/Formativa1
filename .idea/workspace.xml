@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="aaaaaa" />
+    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="acabei de criar as telas, tentando configura-las">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogosSorteadosUser.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogosSorteadosUser.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogosSorteadosUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogosSorteadosUser.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,9 +52,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.jogosSorteadosUser.executor": "Run",
     "Application.nSei.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "210",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/aluno/Documents/Athos/FormativaLotérica/Formativa/src/Main.java",
@@ -86,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715692525671</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criado as telas">
+      <option name="closed" value="true" />
+      <created>1715693406836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715693406836</updated>
+    </task>
+    <task id="LOCAL-00003" summary="acabei de criar as telas, tentando configura-las">
+      <option name="closed" value="true" />
+      <created>1715695622527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715695622527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Receba" />
     <MESSAGE value="aaaaaa" />
-    <option name="LAST_COMMIT_MESSAGE" value="aaaaaa" />
+    <MESSAGE value="Criado as telas" />
+    <MESSAGE value="acabei de criar as telas, tentando configura-las" />
+    <option name="LAST_COMMIT_MESSAGE" value="acabei de criar as telas, tentando configura-las" />
   </component>
 </project>
