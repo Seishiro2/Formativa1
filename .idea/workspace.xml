@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="Receba">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Formativa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nSei.java" afterDir="false" />
-    </list>
+    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="aaaaaa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +78,15 @@
       <option name="presentableId" value="Default" />
       <updated>1715688608116</updated>
     </task>
+    <task id="LOCAL-00001" summary="aaaaaa">
+      <option name="closed" value="true" />
+      <created>1715692525671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715692525671</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Receba" />
-    <option name="LAST_COMMIT_MESSAGE" value="Receba" />
+    <MESSAGE value="aaaaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaaaa" />
   </component>
 </project>
