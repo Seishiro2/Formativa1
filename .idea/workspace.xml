@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="acabei de criar as telas, tentando configura-las">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jogoSorteadoMega.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogoSorteadoMega.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jogoSorteadoMega.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogoSorteadoMega.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jogosSorteadosUser.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogosSorteadosUser.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jogosSorteadosUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogosSorteadosUser.java" afterDir="false" />
-    </list>
+    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +33,18 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Snowayy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Seishiro2/Formativa1.git",
+    "accountId": "05685173-322b-4893-9a07-f941e4a56bc4"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -102,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715695622527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois">
+      <option name="closed" value="true" />
+      <created>1715736426718</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715736426718</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +140,7 @@
     <MESSAGE value="aaaaaa" />
     <MESSAGE value="Criado as telas" />
     <MESSAGE value="acabei de criar as telas, tentando configura-las" />
-    <option name="LAST_COMMIT_MESSAGE" value="acabei de criar as telas, tentando configura-las" />
+    <MESSAGE value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois" />
   </component>
 </project>
