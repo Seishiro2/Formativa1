@@ -26,4 +26,7 @@
       </vspacer>
     </children>
   </grid>
+  <inspectionSuppressions>
+    <suppress inspection="NoScrollPane"/>
+  </inspectionSuppressions>
 </form>

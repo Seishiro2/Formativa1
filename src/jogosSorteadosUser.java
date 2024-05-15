@@ -15,8 +15,6 @@ public class jogosSorteadosUser extends JFrame {
 
         int[][] tabelinha = new int[1][1];
 
-        tabelaJogos.createDefaultColumnsFromModel();
-
     }
 
     public static void main(String[] args) {
