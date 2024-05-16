@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois" />
+    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois.&#10;Deletado arquivos inuteis">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogoSorteadoMega.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogoSorteadoMega.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogoSorteadoMega.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogoSorteadoMega.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/paginaPrincipal.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/paginaPrincipal.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/paginaPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paginaPrincipal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,18 +39,18 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Snowayy"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Snowayy&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Seishiro2/Formativa1.git",
-    "accountId": "05685173-322b-4893-9a07-f941e4a56bc4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Seishiro2/Formativa1.git&quot;,
+    &quot;accountId&quot;: &quot;05685173-322b-4893-9a07-f941e4a56bc4&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -60,6 +66,7 @@
     "Application.jogoSorteadoMega.executor": "Run",
     "Application.jogosSorteadosUser.executor": "Run",
     "Application.nSei.executor": "Run",
+    "Application.paginaPrincipal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "210",
@@ -115,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715736426718</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois.&#10;Deletado arquivos inuteis">
+      <option name="closed" value="true" />
+      <created>1715736552758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715736552758</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +156,7 @@
     <MESSAGE value="Criado as telas" />
     <MESSAGE value="acabei de criar as telas, tentando configura-las" />
     <MESSAGE value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois" />
+    <MESSAGE value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois.&#10;Deletado arquivos inuteis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois.&#10;Deletado arquivos inuteis" />
   </component>
 </project>
