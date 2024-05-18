@@ -25,7 +25,7 @@ public class jogoSorteadoMega extends JFrame {
             desposableNum = r.nextInt(1, 60);
             //váriavel que diz caso a lista ja tenha X valor
             boolean contains;
-            if (Arrays.asList(megasenaAleatoria).contains(i)) contains = true;
+            if (Arrays.asList(megasenaAleatoria).contains(desposableNum)) contains = true;
             else contains = false;
 
             if(contains){

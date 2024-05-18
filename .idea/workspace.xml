@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois.&#10;Deletado arquivos inuteis">
+    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="Sistema de sorteio de jogo não repete mais número;&#10;Pagina principal feita;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jogoSorteadoMega.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogoSorteadoMega.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jogoSorteadoMega.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogoSorteadoMega.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/paginaPrincipal.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/paginaPrincipal.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/paginaPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paginaPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogosSorteadosUser.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogosSorteadosUser.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogosSorteadosUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogosSorteadosUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715736552758</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sistema de sorteio de jogo não repete mais número;&#10;Pagina principal feita;">
+      <option name="closed" value="true" />
+      <created>1715825151363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715825151363</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +164,7 @@
     <MESSAGE value="acabei de criar as telas, tentando configura-las" />
     <MESSAGE value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois" />
     <MESSAGE value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois.&#10;Deletado arquivos inuteis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois.&#10;Deletado arquivos inuteis" />
+    <MESSAGE value="Sistema de sorteio de jogo não repete mais número;&#10;Pagina principal feita;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistema de sorteio de jogo não repete mais número;&#10;Pagina principal feita;" />
   </component>
 </project>

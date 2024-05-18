@@ -16,6 +16,16 @@ public class paginaPrincipal extends JFrame {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
 
+        JogosUserButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+                new jogosSorteadosUser();
+                dispose();
+
+            }
+        });
+
         JogoDaMegaButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
