@@ -30,6 +30,7 @@ public class registerPage extends JFrame{
 
                 }else {
 
+                    //escreve o user no arquivo
                     try {
                         FileWriter escritor = new FileWriter("logins.txt",true);
                         escritor.write(newUserBox.getText() + ";" + newSenhaBox.getText() + "\n");

@@ -17,6 +17,7 @@ public class loginPage extends JFrame{
 
     public boolean verificarUser(){
 
+        //leitor para ver se tem user
         try {
             BufferedReader leitor =
                     new BufferedReader(new FileReader("logins.txt"));
@@ -51,8 +52,7 @@ public class loginPage extends JFrame{
             @Override
             public void actionPerformed(ActionEvent e) {
 
-                if((caixaUsuario.getText().equals("") && caixaSenha.getText().equals("")) ||
-                        (caixaUsuario.getText().equals("") || caixaSenha.getText().equals(""))){
+                if((caixaUsuario.getText().equals("") || caixaSenha.getText().equals(""))){
 
                     labelDoErro.setText("PREENCHA OS CAMPOS CORRETAMENTE");
 

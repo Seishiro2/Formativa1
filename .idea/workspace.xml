@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="Sistema de sorteio de jogo não repete mais número;&#10;Pagina principal feita;">
+    <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="Terminado todas as telas:)))">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jogosSorteadosUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogosSorteadosUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loginPage.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginPage.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/registerPage.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/registerPage.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/registerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/registerPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,28 +56,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.jogoSorteadoMega.executor": "Run",
-    "Application.jogosSorteadosUser.executor": "Run",
-    "Application.loginPage.executor": "Run",
-    "Application.nSei.executor": "Run",
-    "Application.paginaPrincipal.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "210",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/aluno/Documents/Athos/FormativaLotérica/Formativa/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.jogoSorteadoMega.executor&quot;: &quot;Run&quot;,
+    &quot;Application.jogosSorteadosUser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.loginPage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nSei.executor&quot;: &quot;Run&quot;,
+    &quot;Application.paginaPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;210&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/aluno/Documents/Athos/FormativaLotérica/Formativa/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -147,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715825151363</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Terminado todas as telas:)))">
+      <option name="closed" value="true" />
+      <created>1716298164612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716298164612</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +178,7 @@
     <MESSAGE value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois" />
     <MESSAGE value="Sistema de sorteio e tela da mega feito, so conectar com as outras telas depois.&#10;Deletado arquivos inuteis" />
     <MESSAGE value="Sistema de sorteio de jogo não repete mais número;&#10;Pagina principal feita;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistema de sorteio de jogo não repete mais número;&#10;Pagina principal feita;" />
+    <MESSAGE value="Terminado todas as telas:)))" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminado todas as telas:)))" />
   </component>
 </project>
