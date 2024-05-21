@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="44ea709d-dceb-4250-8522-1fa40f6b21da" name="Changes" comment="Sistema de sorteio de jogo não repete mais número;&#10;Pagina principal feita;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jogoSorteadoMega.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogoSorteadoMega.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jogosSorteadosUser.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogosSorteadosUser.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jogosSorteadosUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogosSorteadosUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loginPage.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginPage.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/registerPage.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/registerPage.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/registerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/registerPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,7 @@
     "Application.Main.executor": "Run",
     "Application.jogoSorteadoMega.executor": "Run",
     "Application.jogosSorteadosUser.executor": "Run",
+    "Application.loginPage.executor": "Run",
     "Application.nSei.executor": "Run",
     "Application.paginaPrincipal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -80,6 +83,13 @@
     ]
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

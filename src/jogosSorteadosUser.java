@@ -75,7 +75,7 @@ public class jogosSorteadosUser extends JFrame {
             }while(linha != null);
             leitor.close();
         } catch (Exception e) {
-            throw new RuntimeException(e);
+
         }
 
     }
